@@ -1,0 +1,15 @@
+{
+  "name": "lecture-2-event-loop-and-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "question..js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ashish dwivedi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
